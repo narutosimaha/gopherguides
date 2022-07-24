@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"test_qpass/greet"
+
+	"github.com/narutosimaha/gopherguides/testQpass/gopherguides/greet"
 )
 
 func main() {

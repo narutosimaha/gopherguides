@@ -1,3 +1,3 @@
-module test_qpass
+module gopherguides
 
 go 1.18
